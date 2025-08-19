@@ -1,58 +1,42 @@
-# React Full Course for Beginners 🚀
+# 👥 Team Allocation Project (React)
 
-This repository contains my work and notes from the **React Full Course for Beginners**.  
-I created this repo to **showcase my learning journey, completed projects, and skills in React**.  
+This is a **React-based team allocation application** that I built while learning React.  
+It allows you to **assign employees to teams**, manage state with React hooks, and persist data using **localStorage**.  
 
-React is one of the most popular JavaScript libraries for building user interfaces, and through this course I learned the fundamentals as well as some advanced concepts by building **three hands-on projects**.
+The project demonstrates **core React concepts** including components, props, state management, event handling, and data persistence.
 
 ---
 
-## ⭐️ What I Learned
-- React fundamentals and JSX
-- Functional components & props
-- State management with `useState`
-- Side effects with `useEffect` and using `localStorage`
+## 🚀 Features
+- Add and display employees
+- Assign employees to teams via a dropdown
+- View team members grouped by team
+- State management using `useState`
+- Persist selections using `localStorage`
+- Responsive design with TailwindCSS
 - React Router for navigation
-- Context API for global state
-- Fetching data from APIs
-- Rendering lists, tables, and charts
-- Event handling and component composition
-- Building responsive UI with modern practices
 
 ---
 
-## 📚 Course Contents
-
-### Part 1 – Getting Started
-- Introduction to React  
-- Creating functional components  
-- Using the `useState` hook  
-- Props and state management  
-- LocalStorage with `useEffect`  
-- React Router basics  
-- Context API introduction  
-
-### Part 2 – Intermediate React
-- Context API in depth  
-- Data fetching  
-- Building reusable components (Meals, Search, Modal, Favorites)  
-
-### Part 3 – Advanced React
-- Advanced routing  
-- Fetching and formatting API data  
-- Rendering data in tables  
-- Charts & data visualization  
-- Handling events (delete, update, toggle)  
-- LocalStorage integration  
+## 🛠 Tech Stack
+- **React** (with Vite for fast builds)
+- **TailwindCSS** (for styling)
+- **JavaScript (ES6+)**
+- **localStorage** (for persistence)
 
 ---
 
-## 🛠 Projects I Built
-1. **Employee Management Dashboard**  
-2. **Meal Finder App**  
-3. **Stock Market Tracker with Charts**  
+## 📚 What I Learned
+- Setting up a React project with Vite
+- Creating functional components
+- Passing data via **props**
+- Managing state with `useState`
+- Using `useEffect` for persistence
+- Handling user events
+- Organizing components and code
+- Routing with **react-router-dom**
 
 ---
 
-## Link of Youtube Video
-https://youtu.be/u6gSSpfsoOQ?feature=shared
+## 🚀 Deployment Link:
+https://react-team-allocation.vercel.app/
